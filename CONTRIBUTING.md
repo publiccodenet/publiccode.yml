@@ -16,6 +16,8 @@ You don't need to change any of our code or documentation to be a contributor!
 
 If you want to add to the documentation or code of one of our projects you should make a Pull Request. 
 
+If you never used GitHub, get up to speed with [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/) or follow one of the great free interactive courses in the [GitHub learning lab](https://lab.github.com/) on working with GitHub and working with MarkDown, the syntax this project's documentation is in.
+
 ### 1. Make your changes
 
 This project uses the [**GitFlow branching model** and workflow](http://nvie.com/posts/a-successful-git-branching-model/). When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
