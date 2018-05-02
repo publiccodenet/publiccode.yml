@@ -6,6 +6,12 @@ We – the maintainers and contributors of this project – understand that a st
 
 We love issues and pull requests from everyone.
 
+## Problems, suggestions and questions in Issues
+
+Please help development by reporting problems, suggesting changes and asking questions. To do this, you can [create a GitHub Issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for publiccode.yml](https://github.com/publiccodenet/publiccode.yml/issues).
+
+You don't need to change any of our code or documentation to be a contributor!
+
 ---
 
 For more information on how to use and contribute to this project, please read the [`README`](README.md).
