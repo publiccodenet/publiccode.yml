@@ -12,6 +12,10 @@ Please help development by reporting problems, suggesting changes and asking que
 
 You don't need to change any of our code or documentation to be a contributor!
 
+## Documentation and code in Pull Requests
+
+If you want to add to the documentation or code of one of our projects you should make a Pull Request. 
+
 ---
 
 For more information on how to use and contribute to this project, please read the [`README`](README.md).
