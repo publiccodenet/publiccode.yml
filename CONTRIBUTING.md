@@ -18,6 +18,8 @@ If you want to add to the documentation or code of one of our projects you shoul
 
 If you never used GitHub, get up to speed with [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/) or follow one of the great free interactive courses in the [GitHub learning lab](https://lab.github.com/) on working with GitHub and working with MarkDown, the syntax this project's documentation is in.
 
+This project is [licenced CC-0](LICENSE), which essentially means that the project, along with your contributions is in the Public Domain in whatever jusrisdiction possible, and everyone can do whatever they want with it.
+
 ### 1. Make your changes
 
 This project uses the [**GitFlow branching model** and workflow](http://nvie.com/posts/a-successful-git-branching-model/). When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
