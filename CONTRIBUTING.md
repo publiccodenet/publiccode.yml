@@ -6,3 +6,6 @@ We – the maintainers and contributors of this project – understand that a st
 
 We love issues and pull requests from everyone.
 
+---
+
+For more information on how to use and contribute to this project, please read the [`README`](README.md).
