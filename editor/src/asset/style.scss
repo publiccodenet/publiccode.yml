@@ -1,0 +1,95 @@
+$primary: #111;
+$theme-colors: (
+  "primary": #0074d9,
+  "danger": #ff4136
+);
+
+/*@import "node_modules/bootstrap-material-design/scss/bootstrap-material-design";*/
+@import "node_modules/bootstrap/scss/bootstrap";
+/* @import "./bsi.scss";*/
+@import "./glyphicons/glyphicons.css";
+@import "./system_font.scss";
+@import "./transitions.scss";
+@import "./snackbar.scss";
+@import "./notify.scss";
+@import "./toolbar.scss";
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web");
+
+html,
+body {
+  font-family: "Titillium Web", "system", sans-serif;
+}
+
+input,
+label,
+.btn {
+  margin: 5px;
+}
+
+.split-screen {
+  /*
+  margin-top: 4.1rem;
+  margin-bottom: 2.1rem;
+  */
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  overflow: hidden;
+}
+
+.split-screen--form {
+  flex: 1 0 70%;
+  overflow-y: auto;
+}
+
+.split-screen--toolbar {
+  flex: 0 0 30%;
+  height: 100%;
+}
+.spacer {
+  height: 2rem;
+}
+
+.pad {
+  padding: 20px;
+}
+
+.btn,
+.btn-lg,
+.btn-md,
+.btn-sm,
+.btn-xs,
+.btn-sml {
+  padding: 5px !important;
+  font-size: 0.9rem !important;
+}
+
+.RichTextEditor {
+  margin: 0;
+}
+
+.navbar {
+  background: #0069d9;
+  color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+.objectType legend {
+  margin-left: 0;
+}
+
+.objectType {
+  border: 1px solid #ddd;
+  margin-top: 10px;
+  padding: 20px;
+}
+
+.has-error {
+  color: red;
+}
+
+.yaml {
+  height: 300px;
+  max-height: 30%;
+}
+
