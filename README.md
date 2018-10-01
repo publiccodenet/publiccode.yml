@@ -18,14 +18,14 @@ The PublicCode specification is developed by the [Italian Digital Transformation
 
 ## What this file is for
 
-Many great software projects are developed by public administrations, however reuse of these projects is very limited. Some of the reasons for low uptake of these projects is a lack of discoverability and that it is hard to find out what project can actually work in the context of a different public administration.
+Many great software projects are developed by public administrations, however, reuse of these projects is very limited. Some of the reasons for low uptake of these projects is a lack of discoverability and that it is hard to find out what project can actually work in the context of a different public administration.
 
 The `publiccode.yml` file is meant to solve these problems. It is an easily readable file for civil servants that are trying to figure out whether a project will work for them, and easily readable for computers. It contains information such as:
 
 * The title and description of the project or product in English and/or other languages
 * The status of development, e.g. `concept`, `development`, `beta`, `stable`, `obsolete`
-* By what organisation this project is developed
-* Who is caring for the maintenance and when this runs out
+* What organisation is developing or developed the project
+* Who is caring for the maintenance and at what time the maintenance runs out
 * Who to contact for technical or support inquiries
 * What national and local legal frameworks this project or product works in
 * What software dependencies this project or product has
