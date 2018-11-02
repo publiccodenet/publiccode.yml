@@ -1,5 +1,6 @@
 # The `publiccode.yml` standard
 
+> ⚠️ The development of this draft standard has been continued on [italia/publiccode.yml](https://github.com/italia/publiccode.yml#the-publiccodeyml-standard) which is the version to be transitioned in to OSI stewardship.
 
 ![Repo Status: Alpha](https://img.shields.io/badge/status-alpha-lightgrey.svg?longCache=true&style=plastic)
 [![Build status](https://travis-ci.com/italia/publiccode.yml.svg?branch=master)](https://travis-ci.com/italia/publiccode.yml)
